@@ -188,6 +188,7 @@ The `%%llm_code` cell magic will display the full response as output to the magi
 R code for factorial
 ```
 
+The `--qualify / -q` flag will automatically augment the prompt with a request to generate code outputs in triple backticked code blocks.
 
 ```text
 """
